@@ -1,2 +1,4 @@
-# diamondscustomgrazing
-Website for Diamond S Custom Grazing
+# Welcome to Diamond S Custom Grazing
+This is what the website is about
+
+
