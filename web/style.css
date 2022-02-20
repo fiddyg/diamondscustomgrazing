@@ -142,6 +142,27 @@ a.middle:hover:before {
   width: 100%;
 }
 
+.blogpost {
+  padding-left: 7.5%;
+  float: left;
+  padding-right: 7.5%;
+  width: 35%;
+  padding-bottom: 10%;
+}
+
+button {
+  font-family: 'Roboto', sans-serif;
+  background-color: transparent;
+  border: 2px solid white;
+  color: white;
+}
+
+button:hover {
+  background-color: dodgerblue;
+  transition-duration: 1s;
+  color: black;
+}
+
 .whatimg {
   background-image: url(http://images.kencove.com/Resources/flex_graze_2013_2.png);
   padding-top: 85%;
@@ -293,6 +314,12 @@ footer img {
   }
 
   .welcometext, .what, .review, .map {
+    width: 100%;
+  }
+
+  .blogpost {
+    padding: 0%;
+    padding-bottom: 10%;
     width: 100%;
   }
 
