@@ -148,6 +148,7 @@ a.middle:hover:before {
   padding-right: 7.5%;
   width: 35%;
   padding-bottom: 10%;
+  background-color: black;
 }
 
 button {
@@ -178,7 +179,7 @@ button:hover {
 
 .rubyvalley {
   background-image: url(https://assets.landandfarm.com/resizedimages/640/1024/l/80/1-2721744315);
-  padding-top: 50%;
+  padding-top: 100%;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
