@@ -162,7 +162,7 @@ button:hover {
   background-color: dodgerblue;
   transition-duration: 1s;
   color: black;
-}
+} 
 
 .whatimg {
   background-image: url(http://images.kencove.com/Resources/flex_graze_2013_2.png);
@@ -300,6 +300,10 @@ footer img {
 }
 
 @media screen and (max-width: 1200px) {
+  body{
+    width: 100%;  
+  }
+  
   header img {
     height: 150px;
     width: 150px;
@@ -316,6 +320,7 @@ footer img {
 
   .welcometext, .what, .review, .map {
     width: 100%;
+    padding: 0%;
   }
 
   .blogpost {
