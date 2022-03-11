@@ -92,6 +92,7 @@ header img {
 }
 
 a {
+  color: dodgerblue;
   text-decoration: none;
   cursor: cell;
 }
@@ -198,6 +199,18 @@ footer img {
   padding-bottom: 15px;
 }
 
+.f2 a {
+  color: white;
+  font-size: 15px;
+  display: block;
+  padding-top: 15px;
+  cursor: cell;
+}
+
+.f2 a:hover {
+  color: dodgerblue;
+}
+
 .f3 h3 {
   color: white;
   font-size: 30px;
@@ -207,6 +220,18 @@ footer img {
   width: 25%;
   float: left;
   cursor: cell;
+}
+
+.f3 a {
+  color: white;
+  font-size: 15px;
+  display: block;
+  padding-top: 15px;
+  cursor: cell;
+}
+
+.f3 a:hover {
+  color: dodgerblue;
 }
 
 .f4 {
