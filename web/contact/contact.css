@@ -117,7 +117,7 @@ a.middle:hover:before {
   font-family: 'Roboto', sans-serif;
 }
 
-button {
+.send {
   background-color: transparent;
   border: none;
   padding-bottom: 30px;
@@ -127,7 +127,7 @@ button {
   padding-top: 7%;
 }
 
-button:hover {
+.send:hover {
   color: dodgerblue;
   transition-duration: .4s;
   cursor: cell;
