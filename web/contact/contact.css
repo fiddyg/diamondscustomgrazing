@@ -105,7 +105,6 @@ a.middle:hover:before {
   transform: scaleX(1);
 }
 
-
 .form-control {
   width: 50%;
   background: transparent;
@@ -118,14 +117,17 @@ a.middle:hover:before {
   font-family: 'Roboto', sans-serif;
 }
 
-form .submit {
+.send {
   background-color: transparent;
   border: none;
   padding-bottom: 30px;
-  width: 100%
+  width: 100%;
+  color: white;
+  font-size: 40px;
+  padding-top: 7%;
 }
 
-form .submit:hover {
+.send:hover {
   color: dodgerblue;
   transition-duration: .4s;
   cursor: cell;
