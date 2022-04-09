@@ -223,11 +223,11 @@ footer {
 }
 
 footer img {
-  width: 50%;
+  width: 34%;
   height: auto;
   float: left;
-  padding-left: 25%;
-  padding-right: 25%;
+  padding-left: 33%;
+  padding-right: 33%;
   cursor: cell;
 }
 
