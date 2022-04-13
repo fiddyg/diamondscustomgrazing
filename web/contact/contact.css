@@ -223,7 +223,7 @@ footer img {
     font-size: 40px;
   }
 
-  form, label, input {
+  form, label, .form-control {
     width: 100%;
     padding: 0%;
   }
