@@ -296,7 +296,7 @@ footer img {
     font-size: 40px;
   }
 
-  .pricing {
+  .pricing, .p1info, .p2info, .or {
     width: 100%;
     padding: 0%;
   }
