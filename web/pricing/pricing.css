@@ -280,7 +280,32 @@ footer img {
   body {
    width: 100%;
    height: auto;
-}
+  }
 
-  
+  header img {
+    height: 150px;
+    width: 150px;
+    padding-left: 20%;
+  }
+
+  .main {
+    width: 100%;
+  }
+
+  h1 {
+    font-size: 40px;
+  }
+
+  .pricing {
+    width: 100%;
+    padding: 0%;
+  }
+
+  footer {
+    width: 100%;
+  }
+
+  .f1, .f2, .f3 {
+    width: 100%;
+  }
 }
