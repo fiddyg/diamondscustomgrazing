@@ -3,6 +3,7 @@ body {
   background-color: black;
   cursor: cell;
   width: 100%;
+  color: white;
   font-family: 'Roboto', sans-serif;
 }
 
