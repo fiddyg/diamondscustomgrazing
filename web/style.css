@@ -1,3 +1,7 @@
+* {
+  color: #ababab;
+}
+
 body {
   margin: 0px;
   background-color: black;
@@ -113,7 +117,7 @@ a.middle:hover:before {
 .welcometext {
   width: 100%;
   height: auto;
-  color: white;
+  
   font-family: 'Roboto', sans-serif;
   font-size: 50px;
   float: right;
@@ -135,7 +139,7 @@ a.middle:hover:before {
 }
 
 .what, .blog, .map {
-  color: white;
+  
   font-family: 'Roboto', sans-serif;
   font-size: 30px;
   text-align: center;
@@ -155,7 +159,7 @@ button {
   font-family: 'Roboto', sans-serif;
   background-color: transparent;
   border: 2px solid white;
-  color: white;
+  
 }
 
 button:hover {
@@ -193,7 +197,7 @@ button:hover {
 .source {
   font-size: 10px;
   text-align: center;
-  color: white;
+  
   font-family: 'Roboto', sans-serif;
 }
 
@@ -211,7 +215,7 @@ footer {
 .f1 {
   width: 34%;
   float: left;
-  color: white;
+  
   font-size: 20px;
 }
 
@@ -238,7 +242,7 @@ footer img {
 }
 
 .f3 a {
-  color: white;
+  
   font-size: 15px;
   display: block;
   padding-top: 15px;
