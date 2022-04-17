@@ -296,9 +296,13 @@ footer img {
     font-size: 40px;
   }
 
-  .pricing, .p1info, .p2info, .or {
+  .pricing, .p1info, .or {
     width: 100%;
     padding: 0%;
+  }
+
+  .p2info {
+    padding-left: 25%;
   }
 
   footer {
