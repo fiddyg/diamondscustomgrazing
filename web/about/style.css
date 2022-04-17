@@ -1,9 +1,12 @@
+* {
+  color: gray;
+}
+
 body {
   margin: 0px;
   background-color: black;
   cursor: cell;
   width: 100%;
-  color: gray;
   font-family: 'Roboto', sans-serif;
 }
 
