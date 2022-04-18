@@ -1,13 +1,10 @@
-* {
-  color: #c2c2c2;
-}
-
 body {
   margin: 0px;
-  background-color: #46476d;
+  background-color: black;
   cursor: cell;
   width: 100%;
   font-family: 'Roboto', sans-serif;
+  color: white;
 }
 
 header {
