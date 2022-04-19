@@ -151,10 +151,6 @@ a.middle:hover:before {
   background-color: black;
 }
 
-.blogposttext {
-  border: 2px solid white;
-}
-
 .blank {
   background: black;
   border: none;
@@ -180,6 +176,7 @@ a.middle:hover:before {
 button {
   font-family: 'Roboto', sans-serif;
   background-color: transparent;
+  border: 2px solid white;
   color: white;
 }
 
