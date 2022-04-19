@@ -1,0 +1,195 @@
+body {
+  background-color: black;
+  color: white;
+  margin: 0;
+  width: 100%;
+  height: auto;
+}
+
+body {
+  margin: 0px;
+  background-color: black;
+  cursor: cell;
+  width: 100%;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+header {
+  height: 75px;
+  width: 100%;
+  cursor: cell;
+}
+
+header img {
+  height: 150px;
+  width: 150px;
+  cursor: cell;
+  padding-left: 0%;
+}
+
+.overlay {
+  font-family: 'Roboto', sans-serif;
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: black;
+  overflow-x: hidden;
+  transition: 0.5s;
+  cursor: cell;
+}
+
+.overlay a {
+  cursor: cell;
+}
+
+.overlay-content {
+  position: relative;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+  cursor: cell;
+}
+
+.overlay a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 50px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+  cursor: cell;
+}
+
+.overlay a:hover, .overlay a:focus {
+  color: #f1f1f1;
+  cursor: cell;
+}
+
+.overlay .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 100px;
+}
+
+@media screen and (max-height: 450px) {
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+  }
+}
+
+nav {
+  width: 100%;
+  font-size: 50px;
+  text-decoration: none;
+}
+
+main {
+  width: 100%;
+}
+
+.blogimg1 {
+  width: 100%;
+  background-image: url(http://images.kencove.com/Resources/flex_graze_2013_2.png);
+  padding-top: 50%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.text {
+  width: 50%;
+  padding: 0 25% 0;
+}
+
+hr {
+  border: 2px solid white;
+}
+
+footer {
+  width: 100%;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  cursor: cell;
+}
+
+.f1 {
+  width: 34%;
+  float: left;
+  
+  font-size: 20px;
+}
+
+.f2 {
+  width: 33%;
+  float: left;
+  cursor: cell;
+  padding-bottom: 15px;
+}
+
+footer img {
+  width: 34%;
+  height: auto;
+  float: left;
+  padding-left: 33%;
+  padding-right: 33%;
+  cursor: cell;
+}
+
+.f3 {
+  width: 33%;
+  float: left;
+  cursor: cell;
+}
+
+.f3 a {
+  
+  font-size: 15px;
+  display: block;
+  padding-top: 15px;
+  cursor: cell;
+}
+
+.f3 a:hover {
+  color: dodgerblue;
+}
+
+.facebook {
+  color: royalblue;
+  font-size: 40px;
+}
+
+.facebook:hover {
+  color: white;
+}
+
+.youtube {
+  color: red;
+  font-size: 40px;
+}
+
+.youtube:hover {
+  color: white;
+}
