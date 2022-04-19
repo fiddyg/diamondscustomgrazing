@@ -151,6 +151,18 @@ a.middle:hover:before {
   background-color: black;
 }
 
+.blank {
+  background: black;
+  border: none;
+  color: black;
+}
+
+.blank button {
+  background: black;
+  border: none;
+  color: black;
+}
+
 button {
   font-family: 'Roboto', sans-serif;
   background-color: transparent;
