@@ -155,6 +155,11 @@ a.middle:hover:before {
   background: black;
   border: none;
   color: black;
+  padding-left: 7.5%;
+  float: left;
+  padding-right: 7.5%;
+  width: 35%;
+  padding-bottom: 10%;
 }
 
 .blank button {
