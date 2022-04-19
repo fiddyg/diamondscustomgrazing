@@ -90,10 +90,6 @@ h3 {
   font-size: 30px;
 }
 
-p {
-  font-size: 20px;
-}
-
 a {
   color: dodgerblue;
   text-decoration: none;
@@ -171,6 +167,7 @@ a.middle:hover:before {
   float: left;
   padding-right: 7.5%;
   width: 35%;
+  padding-bottom: 8%;
 }
 
 .blank button {
