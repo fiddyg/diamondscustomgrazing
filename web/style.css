@@ -160,6 +160,7 @@ a.middle:hover:before {
   padding-right: 7.5%;
   width: 35%;
   padding-bottom: 10%;
+  border: 2px solid white;
 }
 
 .blank button {
@@ -176,7 +177,6 @@ a.middle:hover:before {
 button {
   font-family: 'Roboto', sans-serif;
   background-color: transparent;
-  border: 2px solid white;
   color: white;
 }
 
