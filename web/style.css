@@ -168,6 +168,11 @@ a.middle:hover:before {
   color: black;
 }
 
+.blank button:hover {
+  background-color: black;
+  color: black;
+}  
+
 button {
   font-family: 'Roboto', sans-serif;
   background-color: transparent;
