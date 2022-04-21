@@ -142,7 +142,7 @@ a.middle:hover:before {
   }
 }
 
-.what, .blog, .map {
+.what, .map {
   color: white;
   font-family: 'Roboto', sans-serif;
   text-align: center;
@@ -160,12 +160,21 @@ a.middle:hover:before {
   text-align: center;
 }
 
+.blog {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 30px;
+  width: 100%;
+  height: 100px;
+}
+
 .blogpost {
   padding-left: 7.5%;
   float: left;
   padding-right: 7.5%;
   width: 35%;
-  padding-bottom: 10%;
+  padding-bottom: 20px;
   background-color: black;
 }
 

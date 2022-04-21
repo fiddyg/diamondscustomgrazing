@@ -127,9 +127,15 @@ a.middle:hover:before {
   padding-top: 7%;
 }
 
-.send:hover {
+.send a:hover {
   color: dodgerblue;
   transition-duration: .4s;
+  cursor: cell;
+}
+
+.send a {
+  color: white;
+  text-decoration: none;
   cursor: cell;
 }
 
@@ -171,6 +177,7 @@ footer img {
   width: 33%;
   float: left;
   cursor: cell;
+  color: white;
 }
 
 .f3 a {
