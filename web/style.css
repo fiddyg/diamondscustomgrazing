@@ -145,9 +145,19 @@ a.middle:hover:before {
 .what, .blog, .map {
   color: white;
   font-family: 'Roboto', sans-serif;
-  font-size: 30px;
   text-align: center;
+  font-size: 30px;
   width: 100%;
+}
+
+.whattext {
+  width: 75%;
+  padding: 0 12.5% 0;
+  text-align: left;
+}
+
+.what h1 {
+  text-align: center;
 }
 
 .blogpost {
@@ -167,7 +177,7 @@ a.middle:hover:before {
   float: left;
   padding-right: 7.5%;
   width: 35%;
-  padding-bottom: 7%;
+  padding-bottom: 10.25%;
 }
 
 .blank button {
@@ -265,6 +275,7 @@ footer img {
   width: 33%;
   float: left;
   cursor: cell;
+  color: white;
 }
 
 .f3 a {
