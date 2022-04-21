@@ -109,10 +109,6 @@ h3 {
   font-size: 30px;
 }
 
-p {
-  font-size: 25px;
-}
-
 .text {
   width: 70%;
   padding: 0 15% 0;
@@ -216,5 +212,30 @@ footer img {
 }
 
 @media screen and (max-width: 1200px) {
-  
+  body {
+   width: 100%;
+   height: auto;
+  }
+
+  header img {
+    height: 150px;
+    width: 150px;
+    padding-left: 20%;
+  }
+
+  .main {
+    width: 100%;
+  }
+
+  h1 {
+    font-size: 40px;
+  }
+
+  footer {
+    width: 100%;
+  }
+
+  .f1, .f2, .f3 {
+    width: 100%;
+  }
 }
