@@ -163,33 +163,11 @@ a.middle:hover:before {
 .blogpost {
   padding-left: 7.5%;
   float: left;
-  padding-right: 7.5%;
+  padding-right: 57.5%;
   width: 35%;
   padding-bottom: 20px;
   background-color: black;
 }
-
-.blank {
-  background: black;
-  border: none;
-  color: black;
-  padding-left: 7.5%;
-  float: left;
-  padding-right: 7.5%;
-  width: 35%;
-  padding-bottom: 20px;
-}
-
-.blank button {
-  background: black;
-  border: none;
-  color: black;
-}
-
-.blank button:hover {
-  background-color: black;
-  color: black;
-}  
 
 button {
   font-family: 'Roboto', sans-serif;
