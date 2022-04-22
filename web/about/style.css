@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  height: 75px;
+  height: 150px;
   width: 100%;
   cursor: cell;
 }
@@ -135,6 +135,10 @@ p {
   background-size: cover;
 }
 
+.welcomeimgmobile {
+  display: none;
+}
+
 .welcometext, .teamwords {
   padding: 0 12.5% 0;
 }
@@ -171,7 +175,6 @@ footer {
 .f1 {
   width: 34%;
   float: left;
-  
   font-size: 20px;
 }
 
@@ -225,4 +228,37 @@ footer img {
 
 .youtube:hover {
   color: white;
+}
+
+@media screen and (max-width: 1200px;){
+  body{
+    width: 100%;  
+  }
+  
+  header img {
+    height: 150px;
+    width: 150px;
+    padding-left: 20%;
+  }
+
+  .main {
+    width: 100%;
+  }
+
+  .welcomeimg, .teampic {
+    display: none;
+  }
+
+  .welcomimgmobile, .teampicmobile {
+    visibility: visible;
+    width: 100%;
+  }
+
+  footer {
+    width: 100%;
+  }
+
+  .f1, .f2, .f3 {
+    width: 100%;
+  }
 }
