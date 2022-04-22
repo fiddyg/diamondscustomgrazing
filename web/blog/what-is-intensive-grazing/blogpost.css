@@ -1,19 +1,10 @@
 body {
-  background-color: black;
-  color: white;
-  margin: 0;
-  width: 100%;
-  height: auto;
-}
-
-body {
   margin: 0px;
   background-color: black;
   cursor: cell;
   width: 100%;
   color: white;
   font-family: 'Roboto', sans-serif;
-  text-align: center;
 }
 
 header {
@@ -103,10 +94,12 @@ main {
 
 h1 {
   font-size: 50px;
+  text-align: center;
 }
 
 h3 {
   font-size: 30px;
+  text-align: center;
 }
 
 p {
