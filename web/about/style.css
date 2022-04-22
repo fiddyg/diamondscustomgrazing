@@ -135,11 +135,11 @@ p {
   background-size: cover;
 }
 
-.welcometext {
-  text-align: center;
+.welcometext, .teamwords {
+  padding: 0 12.5% 0;
 }
 
-.team {
+.team h1 {
   text-align: center;
 }
 
@@ -155,10 +155,6 @@ p {
 
 .teampicmobile {
   display: none;
-}
-
-.teamwords {
-  width: 100%;
 }
 
 hr {
