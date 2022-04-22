@@ -123,7 +123,6 @@ h2 {
 
 p {
   font-size: 25px;
-  
 }
 
 .welcomeimg {
@@ -137,7 +136,7 @@ p {
 }
 
 .welcomeimgmobile {
-  display: none;
+  visibility: hidden;
 }
 
 .welcometext, .teamwords {
