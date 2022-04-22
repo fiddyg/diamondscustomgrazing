@@ -87,6 +87,7 @@ header img {
 
 .pricinginfo {
   font-size: 50px;
+  text-align: left;
 }
 
 a {
@@ -130,12 +131,14 @@ h3 {
 
 .p1color {
   width: 25%;
+  text-align: left;
   font-size: 40px;
 }
 
 .p1info {
   width: 100%;
   font-family: 'Roboto', sans-serif;
+  text-align: left;
   font-size: 20px;
 }
 
@@ -157,11 +160,13 @@ h3 {
 
 .p2color {
   width: 25%;
+  text-align: left;
   font-size: 40px;
 }
 
 .p2info {
   font-size: 20px;
+  text-align: left;
 }
 
 .tooltip {
@@ -171,6 +176,7 @@ h3 {
 
 .tooltiptext {
   visibility: hidden;
+  text-align: left;
   position: absolute;
   z-index: 1;
   background-color: dodgerblue;
