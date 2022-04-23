@@ -265,20 +265,34 @@ footer img {
 }
 
 .facebook {
+  width: 10%;
+  float: left;
+  padding-right: 5%;
+  padding-left: 35%;
+}
+
+.facebook a {
   color: royalblue;
   font-size: 40px;
 }
 
-.facebook:hover {
+.facebook a:hover {
   color: white;
 }
 
 .youtube {
+  width: 10%;
+  float: left;
+  padding-left: 5%;
+  padding-right: 35%;
+}
+
+.youtube a {
   color: red;
   font-size: 40px;
 }
 
-.youtube:hover {
+.youtube a:hover {
   color: white;
 }
 
