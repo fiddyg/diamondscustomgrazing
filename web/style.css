@@ -269,8 +269,10 @@ footer img {
 }
 
 .facebook {
-  width: 50%;
+  width: 10%;
   float: left;
+  padding-right: 5%;
+  padding-left: 35%;
 }
 
 .facebook a {
@@ -283,8 +285,10 @@ footer img {
 }
 
 .youtube {
-  width: 50%;
+  width: 10%;
   float: left;
+  padding-left: 5%;
+  padding-right: 35%;
 }
 
 .youtube a {
