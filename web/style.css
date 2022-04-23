@@ -268,12 +268,12 @@ footer img {
   color: dodgerblue;
 }
 
-.facebook {
+.facebook a {
   color: royalblue;
   font-size: 40px;
 }
 
-.facebook:hover {
+.facebook a:hover {
   color: white;
 }
 
