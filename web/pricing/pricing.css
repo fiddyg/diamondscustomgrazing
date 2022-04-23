@@ -123,6 +123,10 @@ h3 {
   font-size: 30px;
 }
 
+.pricinginfo h1 {
+  text-align: center;
+}
+
 .pricing1 {
   padding-left: 12.5%;
   width: 25%;
@@ -295,6 +299,7 @@ footer img {
 
   h1 {
     font-size: 40px;
+    text-align: center;
   }
 
   .pricing1, .pricing2, .or {
