@@ -87,7 +87,7 @@ header img {
 
 .pricinginfo {
   font-size: 50px;
-  text-align: left;
+  text-align: center;
   width: 100%;
 }
 
@@ -122,10 +122,6 @@ a.middle:hover:before {
 
 h3 {
   font-size: 30px;
-}
-
-.pricinginfo h1 {
-  text-align: center;
 }
 
 .pricing1 {
