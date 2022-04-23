@@ -268,20 +268,28 @@ footer img {
   color: dodgerblue;
 }
 
+.facebook {
+  width: 50%;
+  float: left;
+}
+
 .facebook a {
   color: royalblue;
   font-size: 40px;
-  float: left;
 }
 
 .facebook a:hover {
   color: white;
 }
 
+.youtube {
+  width: 50%;
+  float: left;
+}
+
 .youtube a {
   color: red;
   font-size: 40px;
-  float: left;
 }
 
 .youtube a:hover {
