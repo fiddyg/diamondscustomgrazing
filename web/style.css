@@ -277,12 +277,12 @@ footer img {
   color: white;
 }
 
-.youtube {
+.youtube a {
   color: red;
   font-size: 40px;
 }
 
-.youtube:hover {
+.youtube a:hover {
   color: white;
 }
 
