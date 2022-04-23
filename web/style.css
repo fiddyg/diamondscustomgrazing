@@ -333,9 +333,11 @@ footer img {
   }
 
   .whatimgmobile {
-    width: 100%;
+    max-width: 100%;
     display: block;
     visibility: visible;
+    height: auto;
+    width: auto;
   }
 
   .rubyvalley {
@@ -343,9 +345,11 @@ footer img {
   }
 
   .rubyvalleymobile {
-    width: 100%;
+    max-width: 100%;
     display: block;
     visibility: visible;
+    height: auto;
+    width: auto;
   }
 
   a.middle:before {
