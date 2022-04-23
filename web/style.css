@@ -271,6 +271,7 @@ footer img {
 .facebook a {
   color: royalblue;
   font-size: 40px;
+  float: left;
 }
 
 .facebook a:hover {
@@ -280,6 +281,7 @@ footer img {
 .youtube a {
   color: red;
   font-size: 40px;
+  float: left;
 }
 
 .youtube a:hover {
