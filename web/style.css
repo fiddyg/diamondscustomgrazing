@@ -332,7 +332,7 @@ footer img {
     display: none;
   }
 
-  .whatimgmobile img {
+  .whatimgmobile {
     width: 100%;
     display: block;
     visibility: visible;
@@ -342,7 +342,7 @@ footer img {
     display: none;
   }
 
-  .rubyvalleymobile img {
+  .rubyvalleymobile {
     width: 100%;
     display: block;
     visibility: visible;
