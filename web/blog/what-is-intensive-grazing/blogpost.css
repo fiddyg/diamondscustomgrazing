@@ -17,7 +17,7 @@ header img {
   height: 150px;
   width: 150px;
   cursor: cell;
-  padding-left: 0%;
+  padding-left: 40%;
 }
 
 .overlay {
@@ -103,7 +103,7 @@ h3 {
 }
 
 p {
-  font-size: 25%;
+  font-size: 25px;
   text-align: left;
 }
 
