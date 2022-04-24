@@ -352,6 +352,7 @@ footer img {
 
   .whatimgmobile img {
     max-width: 100%;
+    height: 100%;
     display: block;
     visibility: visible;
   }
@@ -362,6 +363,7 @@ footer img {
 
   .rubyvalleymobile img {
     width: 100%;
+    height: 100%;
     display: block;
     visibility: visible;
   }
