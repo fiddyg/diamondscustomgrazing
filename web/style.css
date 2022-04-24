@@ -350,7 +350,7 @@ footer img {
     display: none;
   }
 
-  .whatimgmobile {
+  .whatimgmobile img {
     max-width: 100%;
     display: block;
     visibility: visible;
@@ -360,7 +360,7 @@ footer img {
     display: none;
   }
 
-  .rubyvalleymobile {
+  .rubyvalleymobile img {
     width: 100%;
     display: block;
     visibility: visible;
