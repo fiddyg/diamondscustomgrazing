@@ -177,10 +177,10 @@ footer img {
   width: 33%;
   float: left;
   cursor: cell;
+  text-align: center;
 }
 
 .f3 a {
-  
   font-size: 15px;
   display: block;
   padding-top: 15px;
