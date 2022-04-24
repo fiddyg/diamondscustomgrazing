@@ -265,9 +265,14 @@ footer img {
     display: none;
   }
 
-  .welcomeimgmobile img, .teampicmobile img {
+  .teampicmobile {
     visibility: visible;
     width: 100%;
+    background-image: url(IMG_4486.jpeg);
+    padding-top: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 
   footer {
