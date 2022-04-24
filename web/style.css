@@ -301,8 +301,8 @@ footer img {
 }
 
 @media screen and (max-width: 1200px) {
-  body{
-    width: 100%;  
+  body {
+    max-width: 100%;  
   }
   
   header img {
