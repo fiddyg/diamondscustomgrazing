@@ -301,6 +301,10 @@ footer img {
 }
 
 @media screen and (max-width: 1200px) {
+  html {
+    width: 100%;
+  }
+  
   body {
     max-width: 100%;  
   }
