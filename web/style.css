@@ -347,6 +347,7 @@ footer img {
   }
 
   .whatimg {
+    width: 100%;
     background-image: url(grazing.png);
     padding-top: 100%;
     background-position: center;
@@ -355,6 +356,7 @@ footer img {
   }
 
   .rubyvalley {
+    width: 100%;
     background-image: url(rubyvalley.png);
     padding-top: 100%;
     background-position: center;
