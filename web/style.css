@@ -346,7 +346,7 @@ footer img {
     width: 100%;
   }
 
-  .whatimg {
+/*   .whatimg {
     display: none;
   }
 
@@ -366,7 +366,7 @@ footer img {
     height: 100%;
     display: block;
     visibility: visible;
-  }
+  } */
 
   a.middle:before {
     display: none;
