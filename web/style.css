@@ -348,8 +348,7 @@ footer img {
 
   .whatimg {
     background-image: url(grazing.png);
-    padding-top: 85%;
-    background-attachment: fixed;
+    padding-top: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -357,7 +356,7 @@ footer img {
 
   .rubyvalley {
     background-image: url(rubyvalley.png);
-    padding-top: 85%;
+    padding-top: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
