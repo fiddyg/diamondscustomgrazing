@@ -265,7 +265,7 @@ footer img {
     display: none;
   }
 
-  .welcomeimgmobile, .teampicmobile {
+  .welcomeimgmobile img, .teampicmobile img {
     visibility: visible;
     width: 100%;
   }
