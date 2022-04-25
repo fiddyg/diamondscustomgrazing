@@ -359,6 +359,7 @@ footer img {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    visibility: visible;
   }
 
   .rubyvalley {
@@ -372,6 +373,7 @@ footer img {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    visibility: visible;
   }
 
   a.middle:before {
