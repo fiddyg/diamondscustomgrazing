@@ -349,10 +349,6 @@ footer img {
   }
 
   whatimg {
-    display: none;
-  }
-
-  .whatimgmbile {
     width: 100%;
     background-image: url(grazing.png);
     padding-top: 100%;
@@ -362,11 +358,11 @@ footer img {
     visibility: visible;
   }
 
-  .rubyvalley {
-    display: none;
+  .whatimgmbile {
+    
   }
 
-  .rubyvalleymobile {
+  .rubyvalley {
     width: 100%;
     background-image: url(rubyvalley.png);
     padding-top: 100%;
@@ -374,6 +370,10 @@ footer img {
     background-repeat: no-repeat;
     background-size: cover;
     visibility: visible;
+  }
+
+  .rubyvalleymobile {
+    
   }
 
   a.middle:before {
