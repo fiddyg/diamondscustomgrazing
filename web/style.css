@@ -355,11 +355,12 @@ footer img {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    visibility: visible;
+    visibility: hidden;
   }
 
-  .whatimgmbile {
-    
+  .whatimgmobile {
+    visibility: visible;
+    width: 100%;
   }
 
   .rubyvalley {
@@ -369,11 +370,12 @@ footer img {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    visibility: visible;
+    visibility: hidden;
   }
 
   .rubyvalleymobile {
-    
+    visibility: visible;
+    width: 100%;
   }
 
   a.middle:before {
